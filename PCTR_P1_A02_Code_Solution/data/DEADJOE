@@ -1,0 +1,22 @@
+
+*** These modified files were found in JOE when it aborted on Mon Feb 10 19:17:24 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+notas_tutorial
+nota_tutorial
+nota_tutorial
+nota_tutorial
+ejemplo
+ejemplo
+notas_lab
+notas_lab
+notas_lab
+Makefile
+test.txt
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
